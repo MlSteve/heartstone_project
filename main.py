@@ -17,9 +17,11 @@ unit1 = Warrior()
 unit2 = Warrior()
 unit3 = Mage()
 unit4 = Archer()
+unit5 = Archer()
 
 
 print(unit1.__dict__)
 print(unit2.__dict__)
 print(unit3.__dict__)
 print(unit4.__dict__)
+print(unit5.__dict__)
